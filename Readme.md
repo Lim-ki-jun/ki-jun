@@ -14,4 +14,4 @@
 
 ## 4주차 과제(2020-06-07)
 
-- [학습률 최적화, 군집 분석(병합 계층 군집) 구현 클론 코딩, 비용 함수 구현](https://github.com/Lim-ki-jun/ki-jun/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
+- [용어 정리, 딥러닝 강의 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/Lim-ki-jun/ki-jun/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
